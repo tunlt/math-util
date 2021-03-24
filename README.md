@@ -1,3 +1,5 @@
+[![MathUtil | Demo CI Process |](https://github.com/tunlt/math-util/actions/workflows/mathutil-ci.yml/badge.svg)](https://github.com/tunlt/math-util/actions/workflows/mathutil-ci.yml)
+
 ## Welcome to Math Utility Repository. This repo offers various math methods used as a helper for your project
 
 
